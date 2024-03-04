@@ -30,4 +30,7 @@ Based on the finger count and hand positions, it performs various media control 
 Please ensure that your webcam is properly configured and visible to the script.
 
 
+## output
 
+
+![Output Example](https://github.com/Anandukc/gesture_based_media_control/blob/master/example.mp4)
