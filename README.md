@@ -34,3 +34,7 @@ Please ensure that your webcam is properly configured and visible to the script.
 
 
 ![Output Example](https://github.com/Anandukc/gesture_based_media_control/blob/master/example.mp4)
+![Image 1](https://github.com/Anandukc/gesture_based_media_control/blob/master/hand1.png)
+![Image 2](https://github.com/Anandukc/gesture_based_media_control/blob/master/hand2.png)
+![Image 3](https://github.com/Anandukc/gesture_based_media_control/blob/master/hand3.png)
+
